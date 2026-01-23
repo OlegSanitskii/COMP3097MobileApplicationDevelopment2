@@ -1,0 +1,66 @@
+---- Exercise 1.1 ----
+temperature = 18.0
+
+---- Exercise 1.2 ----
+secondsInHour = 3600
+
+---- Exercise 1.3 ----
+age = 26 | score = 100
+
+---- Exercise 1.4 ----
+wheels = 4
+
+---- Exercise 1.5 ----
+π = 3.141592653589793
+
+---- Exercise 1.6 ----
+🐱 = Nikki
+
+---- Exercise 1.7 ----
+city = Toronto
+
+---- Exercise 1.8 ----
+Int16.max = 32767
+
+---- Exercise 1.9 ----
+pi = 3.141592654
+type(of: pi) = Double
+
+---- Exercise 1.10 ----
+
+---- Exercise 1.11 ----
+
+---- Exercise 1.12 ----
+pi2 = 3.141592654 | approximatePi = 3
+
+---- Exercise 1.13 ----
+valueA = -32768
+valueB = -32768
+valueA == valueB -> true
+
+---- Exercise 1.15 ----
+Nested comments example
+
+---- Exercise 1.16 ----
+player = (number: 8, name: "Igor Larionov")
+
+---- Exercise 1.17 ----
+Destructuring -> 8 Igor Larionov
+By index -> 8 Igor Larionov
+By names -> 8 Igor Larionov
+
+---- Exercise 1.18 ----
+maybeAge = Optional(26)
+maybeNothing = nil
+
+---- Exercise 1.19 ----
+banana19 = 17
+
+---- Exercise 1.20 ----
+
+---- Exercise 1.21 ----
+value21 is nil (safe path)
+banana21Default = 0
+
+
+=== Code Execution Successful ===
