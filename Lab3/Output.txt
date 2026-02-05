@@ -1,0 +1,19 @@
+Number of sheep: 10
+
+House ⊆ Farm: true
+
+Farm ⊇ House: true
+
+Farm disjoint City: true
+
+Farm only: ["🐑", "🐔", "🐮"]
+
+All animals: ["🐮", "🐱", "🐑", "🐭", "🐶", "🐔", "🐦"]
+
+Batman is Bruce Wayne
+
+Hulk is David Banner
+
+Batman is Bruce Wayne
+
+Superman is Clark Kent
