@@ -1,0 +1,13 @@
+Hello, World!
+Hello, Donald Trump!
+Hello, Donald Trump!
+Hello, Donald Trump!
+(first: "Donald", last: "Trump")
+(first: "Batman", last: "")
+(first: "", last: "")
+(first: "Dwayne", last: "Johnson")
+9
+I am Batman
+I am not Batman
+15
+0
