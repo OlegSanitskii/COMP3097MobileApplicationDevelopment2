@@ -1,0 +1,132 @@
+Exercise 5.1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Exercise 5.2
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Exercise 5.3
+
+2
+
+6
+
+11
+
+19
+
+25
+
+Exercise 5.4
+
+Index 0: 2
+
+Index 1: 6
+
+Index 2: 11
+
+Index 3: 19
+
+Index 4: 25
+
+Exercise 5.5
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Exercise 5.6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Exercise 5.7
+
+It's tolerable
+
+Exercise 5.8
+
+The value is 1337
+
+Exercise 5.9
+
+elite
+
+Exercise 5.10
+
+a number we care about
+
+Exercise 5.11
+
+Animal is a tiger
+Animal is a cat
+
+Exercise 5.12
+
+Near
+
+Exercise 5.13
+
+2
+
+Exercise 5.14
+
+3
+
+Exercise 5.15
+
+20
+
+10
+
+=== Code Execution Successful ===
